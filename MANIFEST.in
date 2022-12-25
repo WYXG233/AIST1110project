@@ -1,0 +1,2 @@
+recursive-include Picture *.png *.jpg *.gif *.jpeg
+recursive-include Sound *.wav *.mp3

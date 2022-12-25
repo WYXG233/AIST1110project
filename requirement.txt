@@ -1,0 +1,7 @@
+gym
+pygame
+numpy
+pandas
+tqdm
+matplotlib
+colorama
